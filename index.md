@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Orema, une solution intelligente enfin pensée pour vous'
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Gérer votre compteur, sans vous déplacer. C'est facile, c'est rapide,
+      c'est faisable avec Orema.
     actions:
       - label: Learn More
         url: /features
